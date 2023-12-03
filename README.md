@@ -1,16 +1,19 @@
 ### Hi there 👋
+My name is Braxton and I'm a software engineer from Seattle, WA. Here's some info about me!
 
-<!--
-**Bdiaz10/Bdiaz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Work experience:
 
-Here are some ideas to get you started:
+Software Engineer intern at Akvelon - Backend development for AI study assistant project. [Bellevue, WA. Summer 2023]
+Software Engineer intern at Amazon - Backend development for AWS Neptune. [Seattle, WA. Summer 2022]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Education:
+
+University of Washington - BS in Computer Science & Software Engineering [2023]
+
+🌱 Interests:
+
+Full Stack Development.
+Machine Learning.
+
+💬 Reach me by email or LinkedIn! braxton.diaz@outlook.com | https://www.linkedin.com/in/braxtondiaz/
+
