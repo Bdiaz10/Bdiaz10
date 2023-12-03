@@ -4,7 +4,7 @@ My name is Braxton and I'm a software engineer from Seattle, WA. Here's some inf
 ⚡ Work experience:
 
 - Software Engineer intern at Akvelon - Backend development for AI study assistant project. [Bellevue, WA. Summer 2023]<br>
-- Software Engineer intern at Amazon - Backend development for AWS Neptune. [Seattle, WA. Summer 2022]
+- Software Engineer intern at Amazon - Backend development for graph database, AWS Neptune. [Seattle, WA. Summer 2022]
 
 📚 Education:
 
