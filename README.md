@@ -3,17 +3,17 @@ My name is Braxton and I'm a software engineer from Seattle, WA. Here's some inf
 
 ⚡ Work experience:
 
-Software Engineer intern at Akvelon - Backend development for AI study assistant project. [Bellevue, WA. Summer 2023]<br>
-Software Engineer intern at Amazon - Backend development for AWS Neptune. [Seattle, WA. Summer 2022]
+- Software Engineer intern at Akvelon - Backend development for AI study assistant project. [Bellevue, WA. Summer 2023]<br>
+- Software Engineer intern at Amazon - Backend development for AWS Neptune. [Seattle, WA. Summer 2022]
 
 📚 Education:
 
-University of Washington - BS in Computer Science & Software Engineering [2023]
+- University of Washington - BS in Computer Science & Software Engineering [2023]
 
 🌱 Interests:
 
-Full Stack Development. <br>
-Machine Learning.
+- Full Stack Development. <br>
+- Machine Learning.
 
 💬 Reach me by email or LinkedIn! braxton.diaz@outlook.com | https://www.linkedin.com/in/braxtondiaz/
 
