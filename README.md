@@ -1,19 +1,13 @@
-### Hi there 👋
-My name is Braxton and I'm a software engineer from Seattle, WA. Here's some info about me!
+Software Engineer/ SRE
 
-⚡ Work experience:
+Interested in:
+- Distributed Systems
+- Linux Internals
+- Databases
+- Kubernetes
+- Networking
+- Observability
+- Performance Engineering
 
-- Software Engineer intern at Akvelon - Backend development for AI study assistant project. [Bellevue, WA. Summer 2023]<br>
-- Software Engineer intern at Amazon - Backend development for graph database, AWS Neptune. [Seattle, WA. Summer 2022]
-
-📚 Education:
-
-- University of Washington - BS in Computer Science & Software Engineering [2023]
-
-🌱 Interests:
-
-- Full Stack Development. <br>
-- Machine Learning.
-
-💬 Reach me by email or LinkedIn! braxton.diaz@outlook.com | https://www.linkedin.com/in/braxtondiaz/
+Reach out to me on LinkedIn! https://www.linkedin.com/in/braxtondiaz/
 
